@@ -1,6 +1,6 @@
 module github.com/houseme/iboxchain
 
-go 1.20.0
+go 1.20
 
 require (
 	github.com/redis/go-redis/v9 v9.5.0
