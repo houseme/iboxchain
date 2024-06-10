@@ -3,7 +3,7 @@ module github.com/houseme/iboxchain
 go 1.21
 
 require (
-	github.com/redis/go-redis/v9 v9.5.2
+	github.com/redis/go-redis/v9 v9.5.3
 	golang.org/x/crypto v0.24.0
 )
 
